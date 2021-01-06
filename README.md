@@ -1,7 +1,7 @@
 La Programmation Orientée Objet (POO) avec JAVA   
 *******************************************
 Exercice réalisé dans le cadre de ma formation Développeur Web/Web mobile avec ENI Ecole Informatique  
-Fait en janvier 2021  
+Janvier 2021  
 *******************************************
 L'utilisation de classes de JAVA  
 TP Calendrier   
