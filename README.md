@@ -23,13 +23,7 @@ fichiers compilés.
 Le numéro du mois est basé à partir de zéro, c’est-à-dire que le mois de janvier correspond à 0 et décembre à 11.   
 L’affichage attendu pour un appel à cette méthode avec les valeurs 2018 et 10 doit être celui-ci :  
 
-* novembre 2018 *    
-L...Ma.Me...J...V...S...D  
-...................01 02 03 04  
-05 06 07 08 09 10 11  
-12 13 14 15 16 17 18  
-19 20 21 22 23 24 25  
-26 27 28 29 30  
+ ![calendrier](calendrier.png) 
 
 Pour écrire cette procédure, il est nécessaire de se référer à la Javadoc de la classe
 GregorianCalendar.
